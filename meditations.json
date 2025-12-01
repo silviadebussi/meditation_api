@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "titulo": "Respiração Profunda",
+    "descricao": "Ajuda a reduzir o estresse.",
+    "conteudo": "Inspire profundamente por 4 segundos, segure por 4 e solte por 6."
+  },
+  {
+    "id": 2,
+    "titulo": "Relaxamento Guiado",
+    "descricao": "Ótimo para ansiedade.",
+    "conteudo": "Feche os olhos, relaxe o corpo e siga uma respiração lenta."
+  },
+  {
+    "id": 3,
+    "titulo": "Escaneamento Corporal",
+    "descricao": "Aumenta a consciência corporal.",
+    "conteudo": "Perceba cada parte do seu corpo, relaxando aos poucos."
+  }
+]
