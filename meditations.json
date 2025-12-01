@@ -2,19 +2,181 @@
   {
     "id": 1,
     "titulo": "Respiração Profunda",
-    "descricao": "Ajuda a reduzir o estresse.",
-    "conteudo": "Inspire profundamente por 4 segundos, segure por 4 e solte por 6."
+    "descricao": "Meditação para estabilizar a mente.",
+    "conteudo": "Prática inspirada em Anapanasati: inspire por 4 segundos, observe o ar entrando, segure levemente e solte lentamente por 6 segundos, percebendo a impermanência de cada respiração."
   },
   {
     "id": 2,
     "titulo": "Relaxamento Guiado",
-    "descricao": "Ótimo para ansiedade.",
-    "conteudo": "Feche os olhos, relaxe o corpo e siga uma respiração lenta."
+    "descricao": "Reduz ansiedade e tensão.",
+    "conteudo": "Sente-se confortavelmente, feche os olhos e permita que o corpo amoleça. Traga atenção gentil à respiração, como ensinado em Shamatha, mantendo suavidade e presença."
   },
   {
     "id": 3,
     "titulo": "Escaneamento Corporal",
-    "descricao": "Aumenta a consciência corporal.",
-    "conteudo": "Perceba cada parte do seu corpo, relaxando aos poucos."
+    "descricao": "Aumenta consciência corporal.",
+    "conteudo": "Percorra mentalmente cada parte do corpo, dos pés à cabeça, observando sensações como ensinando no Satipatthana. Nada deve ser mudado, apenas percebido."
+  },
+  {
+    "id": 4,
+    "titulo": "Meditação Matinal",
+    "descricao": "Traz foco para o dia.",
+    "conteudo": "Respire profundamente e estabeleça uma intenção positiva para o dia. Sinta o corpo acordando e perceba a mente se abrindo para novas possibilidades."
+  },
+  {
+    "id": 5,
+    "titulo": "Gratidão",
+    "descricao": "Cultiva alegria genuína.",
+    "conteudo": "Traga à mente algo pelo qual é grato. Permita que o coração suavize. Prática baseada em Mudita, a alegria empática."
+  },
+  {
+    "id": 6,
+    "titulo": "Conexão com o Momento",
+    "descricao": "Retorna ao presente.",
+    "conteudo": "Observe sons, respiração e sensações em tempo real, como na prática de Sati. A cada distração, volte gentilmente."
+  },
+  {
+    "id": 7,
+    "titulo": "Foco na Respiração",
+    "descricao": "Aumenta clareza mental.",
+    "conteudo": "Fixe a mente apenas no ar entrando e saindo pelas narinas. Quando pensamentos surgirem, reconheça-os e volte ao foco."
+  },
+  {
+    "id": 8,
+    "titulo": "Ansiedade Zero",
+    "descricao": "Acalma o sistema nervoso.",
+    "conteudo": "Inspire contando até 4 e expire contando até 8. Prática budista de alongamento da exalação para reduzir agitação interna."
+  },
+  {
+    "id": 9,
+    "titulo": "Sono Profundo",
+    "descricao": "Ajuda a dormir rápido.",
+    "conteudo": "Deite-se confortavelmente, faça respirações longas e visualize o corpo afundando no colchão como nuvem se dissolvendo."
+  },
+  {
+    "id": 10,
+    "titulo": "Mente Leve",
+    "descricao": "Solta preocupações.",
+    "conteudo": "Observe cada pensamento surgindo e desaparecendo, como bolhas de sabão. Prática clássica de Vipassana."
+  },
+  {
+    "id": 11,
+    "titulo": "Equilíbrio Interior",
+    "descricao": "Cultiva estabilidade emocional.",
+    "conteudo": "Sinta emoções sem rejeitá-las nem se apegar. Observe-as como ondas que vêm e vão, praticando Upekkha (equanimidade)."
+  },
+  {
+    "id": 12,
+    "titulo": "Autocompaixão",
+    "descricao": "Acolhe sem julgamentos.",
+    "conteudo": "Coloque a mão no peito e repita mentalmente: 'Que eu possa ser gentil comigo mesmo.' Prática budista de Karuna."
+  },
+  {
+    "id": 13,
+    "titulo": "Meditação Caminhando",
+    "descricao": "Mindfulness ativo.",
+    "conteudo": "Ande devagar percebendo o toque dos pés no chão. Cada passo é uma respiração. Ensinamento de Thich Nhat Hanh."
+  },
+  {
+    "id": 14,
+    "titulo": "Respiração Alternada",
+    "descricao": "Equilibra emoções.",
+    "conteudo": "Respire alternando narinas. Essa técnica harmoniza os canais energéticos e aumenta clareza mental."
+  },
+  {
+    "id": 15,
+    "titulo": "Atenção Plena",
+    "descricao": "Observação sem julgamento.",
+    "conteudo": "Observe pensamentos e sensações com neutralidade. A prática consiste apenas em ver, sem reagir."
+  },
+  {
+    "id": 16,
+    "titulo": "Relaxamento Profundo",
+    "descricao": "Solta tensões internas.",
+    "conteudo": "Deite-se e faça respirações longas, movendo a atenção de cima para baixo. Cada exalação relaxa o corpo."
+  },
+  {
+    "id": 17,
+    "titulo": "Paz Interior",
+    "descricao": "Acalma emoções turbulentas.",
+    "conteudo": "Imagine uma luz suave no centro do peito expandindo paz a cada respiração, inspirada em práticas tibetanas."
+  },
+  {
+    "id": 18,
+    "titulo": "Conexão com o Coração",
+    "descricao": "Expande amor e gentileza.",
+    "conteudo": "Repita mentalmente: 'Que eu esteja em paz. Que os outros estejam em paz.' Prática clássica de Metta Bhavana."
+  },
+  {
+    "id": 19,
+    "titulo": "Deixar Ir",
+    "descricao": "Libera tensões mentais.",
+    "conteudo": "Observe o apego a pensamentos e solte-os conscientemente. O desapego é baseado no princípio de Anicca (impermanência)."
+  },
+  {
+    "id": 20,
+    "titulo": "Silêncio Interior",
+    "descricao": "Retorna à essência.",
+    "conteudo": "Sente-se em silêncio e observe a quietude entre uma respiração e outra. Permaneça nela."
+  },
+  {
+    "id": 21,
+    "titulo": "Enraizamento",
+    "descricao": "Sensação de segurança.",
+    "conteudo": "Sinta o corpo tocando o chão e visualize raízes descendo. Técnica usada para estabilizar a mente."
+  },
+  {
+    "id": 22,
+    "titulo": "Clareza Mental",
+    "descricao": "Melhora raciocínio.",
+    "conteudo": "Observe a respiração no ponto abaixo do nariz, técnica usada para refinar foco em mosteiros Theravada."
+  },
+  {
+    "id": 23,
+    "titulo": "Aceitação Radical",
+    "descricao": "Reduz sofrimento.",
+    "conteudo": "Observe emoções difíceis surgindo e diga: 'Isso também faz parte.' Baseado na prática de equanimidade."
+  },
+  {
+    "id": 24,
+    "titulo": "Sorriso Interior",
+    "descricao": "Eleva o humor.",
+    "conteudo": "Traga um leve sorriso ao rosto. O cérebro interpreta como sinal de relaxamento e abre espaço para leveza."
+  },
+  {
+    "id": 25,
+    "titulo": "Consciência da Impermanência",
+    "descricao": "Aprofunda sabedoria espiritual.",
+    "conteudo": "Observe qualquer sensação e repita: 'Isso muda.' Prática fundamental de Vipassana."
+  },
+  {
+    "id": 26,
+    "titulo": "Expansão da Consciência",
+    "descricao": "Amplia percepção.",
+    "conteudo": "Sinta a respiração expandir o peito e imagine sua consciência se expandindo junto, como no Dzogchen."
+  },
+  {
+    "id": 27,
+    "titulo": "Meditação do Som",
+    "descricao": "Mindfulness auditivo.",
+    "conteudo": "Apenas escute: sons próximos, distantes, internos. Não identifique, apenas perceba."
+  },
+  {
+    "id": 28,
+    "titulo": "Calmaria Instantânea",
+    "descricao": "Restaura equilíbrio rápido.",
+    "conteudo": "Respire profundamente 3 vezes e perceba como o corpo suaviza imediatamente."
+  },
+  {
+    "id": 29,
+    "titulo": "Autoperdão",
+    "descricao": "Liberta peso emocional.",
+    "conteudo": "Traga algo que pesa no coração e diga: 'Eu fiz o melhor que pude com o que eu sabia.'"
+  },
+  {
+    "id": 30,
+    "titulo": "Observação dos Pensamentos",
+    "descricao": "Cria distância mental.",
+    "conteudo": "Imagine os pensamentos como folhas descendo um rio. Apenas observe."
   }
 ]
